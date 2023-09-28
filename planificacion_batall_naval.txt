@@ -49,10 +49,9 @@ Planificación:
 
 11. Documentación:
     - Crear documentación detallada del proyecto.
-    - Incluir instrucciones para ejecutar y jugar el juego.
 
 12. Despliegue:
-    - Preparar el proyecto para su despliegue en un servidor local o en la nube.
+    - Preparar el proyecto para su despliegue en un servidor local.
 
 13. Prueba de usuario final:
     - Invitar a usuarios para probar el juego y recopilar comentarios.
