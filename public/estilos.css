@@ -1,8 +1,28 @@
+
+
+
+
+#gamesboard-container{
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+.game-board{
+    width: 200px;
+    height: 200px;
+}
+.block{
+    width: 20px;
+    height: 20px;
+    border: solid 1px whitesmoke;
+    box-sizing: border-box;
+}
+
 .option-container{
     width: 500 px;
     height: 60px;
     margin: 30px 0;
-    background-color: lightblue;
+    background-color:lightblue;
     display: flex;
     align-items: center;
 }
